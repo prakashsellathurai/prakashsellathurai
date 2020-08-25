@@ -4,6 +4,9 @@
 <a href="https://dev.to/prakashsellathurai">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="prakashsellathurai's DEV Profile" height="30" width="30">
 </a>
+
+
+[![Prakash Sellathurai's github stats](https://github-readme-stats.vercel.app/api?username=prakashsellathurai)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **prakashsellathurai/prakashsellathurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
