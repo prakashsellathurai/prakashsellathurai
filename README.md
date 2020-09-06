@@ -1,4 +1,14 @@
 ### Hi there 👋
+<p>
+  Portfolio website :
+    <a href="https://www.prakashsellathurai.com">
+  :globe_with_meridians: 
+  </a> 
+    <a href="https://www.prakashsellathurai.com">
+  https://www.prakashsellathurai.com
+  </a> 
+  </p>
+  
 ### Social:
 <p >
   <a href="https://dev.to/prakashsellathurai">
@@ -7,9 +17,7 @@
   <a href="https://www.linkedin.com/in/prakashsellathurai/">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-  <a href="https://www.prakashsellathurai.com">
-  :globe_with_meridians: 
-  </a>
+
   <a href="https://twitter.com/prakash1729brt">
     <img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
