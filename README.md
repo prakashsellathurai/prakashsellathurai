@@ -48,11 +48,7 @@ I'm Prakash Sellathurai ,I'm working on AI & Robotics
 [![Prakash Sellathurai's github stats](https://github-readme-stats.vercel.app/api?username=prakashsellathurai)](https://github.com/prakashsellathurai/)
 </details>
 <br>
-<details>
- <summary> ⚡  Latest Tweets</summary>
-<iframe src="https://www.prakashsellathurai.com/tweets/">
-</frame>
-</details>
+
 
 <!--
 
