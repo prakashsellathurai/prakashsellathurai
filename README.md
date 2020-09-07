@@ -50,12 +50,8 @@ I'm Prakash Sellathurai ,I'm working on AI & Robotics
 <br>
 <details>
  <summary> ⚡  Latest Tweets</summary>
-
- <a class="twitter-timeline"
-  href="https://twitter.com/prakash1729brt">
-  Tweets by @prakash1729brt
-</a>
-
+<iframe src="https://www.prakashsellathurai.com/tweets/">
+</frame>
 </details>
 
 <!--
