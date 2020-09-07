@@ -6,7 +6,7 @@ I'm Prakash Sellathurai ,I'm working on AI & Robotics
 <br>
 <br>
 
-- 🌱 I’m currently learning Product Leadership
+- 🌱 I’m currently learning Product Management
 - 💬 Ask me about AI ,Robotics and Leadership
 - ⚡ Fun fact: At the center of an uncertain and possibly illusionary universe there would always be tea.
 
