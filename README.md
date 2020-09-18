@@ -2,7 +2,6 @@
 
 <img align='right' src="https://github.com/prakashsellathurai/prakashsellathurai/raw/master/images/Prakash%20Sellathurai.png" alt="prakashsellathurai Logo"  width="150">
 
-I'm Prakash Sellathurai ,I'm working on AI & Robotics
 <br>
 <br>
 
