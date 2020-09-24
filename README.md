@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<img align='right' src="https://github.com/prakashsellathurai/prakashsellathurai/raw/master/images/Prakash%20Sellathurai.png" alt="prakashsellathurai Logo"  width="150">
+
 
 <br>
 <br>
