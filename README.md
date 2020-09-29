@@ -55,7 +55,9 @@
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
