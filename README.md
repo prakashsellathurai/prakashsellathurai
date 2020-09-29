@@ -45,6 +45,9 @@
 
 <details>
  <summary> ⚡  Github Stats</summary>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Prakash Sellathurai's github stats](https://github-readme-stats.vercel.app/api?username=prakashsellathurai)](https://github.com/prakashsellathurai/)
 </details>
