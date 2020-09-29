@@ -12,7 +12,7 @@
 
 <p >
   <a href="https://www.prakashsellathurai.com">
-  <img  alt="codeSTACKr.com" width="28" height="28"src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img  alt="prakashsellathurai | Website" width="28" height="28"src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   &nbsp;
   </a>
   <a href="https://dev.to/prakashsellathurai">
