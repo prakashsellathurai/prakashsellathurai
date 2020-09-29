@@ -12,7 +12,7 @@
 
 <p >
   <a href="https://www.prakashsellathurai.com">
-  <img  alt="prakashsellathurai | Website" width="28" height="28"src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img  alt="prakashsellathurai | Website" width="28" height="28" src="https://img.icons8.com/plasticine/100/000000/resume-website.png" />
   &nbsp;
   </a>
   <a href="https://dev.to/prakashsellathurai">
@@ -20,11 +20,11 @@
   </a>
    &nbsp;
   <a href="https://www.linkedin.com/in/prakashsellathurai/">
- <img  alt="prakashsellathurai | LinkedIn" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <img  alt="prakashsellathurai | LinkedIn" width="28" height="28"  src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
    </a>
  &nbsp;
   <a href="https://twitter.com/prakash1729brt">
- <img  alt="prakash1729brt | Twitter" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <img  alt="prakash1729brt | Twitter" width="28" height="28" src="https://img.icons8.com/color/50/000000/twitter.png" />
   </a>
    &nbsp;
   <a href="https://github.com/prakashsellathurai">
@@ -32,11 +32,11 @@
   </a>
      &nbsp;
   <a href="https://github.com/prakashsellathurai">
-<img  alt="prakashsellathurai | Medium" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img  alt="prakashsellathurai | Medium" width="28" height="28" src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" />
   </a>
      &nbsp;
   <a href="mailto: prakashsellathurai@gmail.com">
- <img  alt="prakashsellathurai | Email" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ <img  alt="prakashsellathurai | Email" width="28" height="28" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
    </a>
  </p>
  
