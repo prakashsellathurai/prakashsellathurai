@@ -12,7 +12,7 @@
 
 <p >
   <a href="https://www.prakashsellathurai.com">
-  <img  alt="prakashsellathurai | Website" width="28" height="28" src="https://img.icons8.com/plasticine/100/000000/resume-website.png" />
+  <img  alt="prakashsellathurai | Website" width="28" height="28" src="https://img.icons8.com/ios/50/000000/domain.png" />
   &nbsp;
   </a>
   <a href="https://dev.to/prakashsellathurai">
