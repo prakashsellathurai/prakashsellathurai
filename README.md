@@ -7,8 +7,8 @@
 - 💬 Ask me about AI ,Robotics and Leadership
 - ⚡ Fun fact: At the center of an uncertain and possibly illusionary universe there would always be tea.
 
+<strong>📫 How to reach me </strong>
 
-### Connect with me:
 
 <p >
   <a href="https://www.prakashsellathurai.com">
