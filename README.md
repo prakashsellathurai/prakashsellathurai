@@ -34,6 +34,10 @@
   <a href="https://github.com/prakashsellathurai">
 <img  alt="prakashsellathurai | Medium" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
+     &nbsp;
+  <a href="mailto:prakashsellathurai@gmail.com">
+ <img  alt="prakashsellathurai | Email" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+   </a>
  </p>
  
 
