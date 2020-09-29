@@ -48,16 +48,17 @@
  
 
 [![Prakash Sellathurai's github stats](https://github-readme-stats.vercel.app/api?username=prakashsellathurai)](https://github.com/prakashsellathurai/)
+
+
+<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 </details>
 <br>
 
 ---
 
-<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
