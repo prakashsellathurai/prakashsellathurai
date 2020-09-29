@@ -31,7 +31,7 @@
 <img  alt="prakashsellathurai | Github" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
      &nbsp;
-  <a href="https://github.com/prakashsellathurai">
+  <a href="https://www.medium.com/@prakashsellathurai">
 <img  alt="prakashsellathurai | Medium" width="28" height="28" src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" />
   </a>
      &nbsp;
