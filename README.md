@@ -49,15 +49,13 @@
 
 [![Prakash Sellathurai's github stats](https://github-readme-stats.vercel.app/api?username=prakashsellathurai)](https://github.com/prakashsellathurai/)
 
+</details>
+
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-</details>
-<br>
-
 ---
 
 
