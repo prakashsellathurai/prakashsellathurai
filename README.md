@@ -38,7 +38,7 @@
  
 #### latest blog posts :scroll: :scroll:
 <!-- BLOG-POST-LIST:START -->
-- [Why LOTR is Great?](https://www.prakashsellathurai.com/stories/why-lotr-is-goat)
+- [Why LOTR is Great?](https://www.prakashsellathurai.com/blog/2020/10/14/Why-lotr-is-great)
 - [Awesome Product Management](https://www.prakashsellathurai.com/blog/2020/10/03/awesome-product-management)
 - [Simple yet Eloquent framework .. but why?](https://www.prakashsellathurai.com/blog/2020/09/22/simple-yet-eloquent-framework-but-why)
 - [Validation of a Business Idea](https://www.prakashsellathurai.com/blog/2020/01/17/idea-validation)
