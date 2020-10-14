@@ -40,7 +40,7 @@
 
 
 <details>
- <summary> ⚡  Github Stats</summary>
+ <summary> ⚡  Github Stats (click to expand )</summary>
  
 
 <br>
