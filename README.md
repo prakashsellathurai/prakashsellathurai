@@ -38,11 +38,11 @@
  
 #### latest blog posts :scroll: :scroll:
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Product Management](https://www.prakashsellathurai.com/2020/10/03/awesome-product-management.html)
-- [Simple yet Eloquent framework .. but why?](https://www.prakashsellathurai.com/2020/09/22/simple-yet-eloquent-framework-but-why.html)
-- [Validation of a Business Idea](https://www.prakashsellathurai.com/2020/01/17/idea-validation.html)
-- [Mental Toughness](https://www.prakashsellathurai.com/2018/04/11/mental-toughness.html)
-- [Monolithic vs Microservices](https://www.prakashsellathurai.com/2017/08/02/monolithic-vs-microservices.html)
+- [Why LOTR is Great?](https://www.prakashsellathurai.com/stories/why-lotr-is-goat)
+- [Awesome Product Management](https://www.prakashsellathurai.com/blog/2020/10/03/awesome-product-management)
+- [Simple yet Eloquent framework .. but why?](https://www.prakashsellathurai.com/blog/2020/09/22/simple-yet-eloquent-framework-but-why)
+- [Validation of a Business Idea](https://www.prakashsellathurai.com/blog/2020/01/17/idea-validation)
+- [Mental Toughness](https://www.prakashsellathurai.com/blog/2018/04/11/mental-toughness)
 <!-- BLOG-POST-LIST:END -->
 
 
