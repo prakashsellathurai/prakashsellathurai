@@ -26,14 +26,7 @@
   <a href="https://twitter.com/prakash1729brt">
  <img  alt="prakash1729brt | Twitter" width="28" height="28" src="https://img.icons8.com/color/50/000000/twitter.png" />
   </a>
-   &nbsp;
-  <a href="https://github.com/prakashsellathurai">
-<img  alt="prakashsellathurai | Github" width="28" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  &nbsp;
-  <a href="mailto: prakashsellathurai@gmail.com">
- <img  alt="prakashsellathurai | Email" width="28" height="28" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
-   </a>
+
  </p>
  
 #### latest blog posts :scroll: :scroll:
