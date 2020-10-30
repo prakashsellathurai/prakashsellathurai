@@ -108,6 +108,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 <details>
   <summary> :trophy: Tropies :trophy: </summary>
   
+  <br>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=prakashsellathurai)]
  </details>
 
