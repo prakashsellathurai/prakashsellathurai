@@ -105,7 +105,11 @@ HTML                     2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-
+<details>
+  <summary> :trophy: Tropies :trophy: </summary>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=prakashsellathurai)]
+ </details>
 
 ---
 
