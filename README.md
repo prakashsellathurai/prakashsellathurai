@@ -110,7 +110,7 @@ HTML                     2 repos             █░░░░░░░░░░�
   
   <br>
   
-  ![trophy](https://github-profile-trophy-wine.vercel.app/?username=prakashsellathurai)
+  [![trophy](https://github-profile-trophy-wine.vercel.app/?username=prakashsellathurai)](https://github-profile-trophy-wine.vercel.app)
  </details>
 
 ---
