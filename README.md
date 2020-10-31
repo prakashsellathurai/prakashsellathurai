@@ -47,11 +47,11 @@
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,015 Contributions in the Year 2020
+> 🏆 1,016 Contributions in the Year 2020
  > 
 > 📦 206.1 kB Used in Github's Storage 
  > 
@@ -93,10 +93,10 @@ Sunday       86 commits     ████░░░░░░░░░░░░░�
 
 ```text
 JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
 Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
 
 ```
 
