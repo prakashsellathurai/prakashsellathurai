@@ -47,17 +47,17 @@
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,031 Contributions in the Year 2020
+> 🏆 1,035 Contributions in the Year 2020
  > 
-> 📦 337.0 kB Used in Github's Storage 
+> 📦 341.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 81 Public Repositories
+> 📜 82 Public Repositories
  > 
 > 🔑 5 Private Repositories 
 
