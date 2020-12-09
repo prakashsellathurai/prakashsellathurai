@@ -47,13 +47,13 @@
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,512 Contributions in the Year 2020
+> 🏆 1,513 Contributions in the Year 2020
  > 
-> 📦 363.0 kB Used in Github's Storage 
+> 📦 363.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,10 +75,10 @@
 ```text
 Monday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
 Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Wednesday    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
+Wednesday    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
 Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
 Friday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Saturday     183 commits    ██████░░░░░░░░░░░░░░░░░░░   26.48% 
+Saturday     182 commits    ██████░░░░░░░░░░░░░░░░░░░   26.34% 
 Sunday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
 
 ```
