@@ -4,7 +4,7 @@
 
 
 <!--- 🌱 I’m currently learning Product Management --->
-- 💬 Ask me about Machine Learning ,Robotics and Engineering
+- 💬 Ask me about Machine Learning ,Software and Mechatronics Engineering
 - ⚡ Fun fact: At the center of an uncertain and possibly illusionary universe there would always be tea.
 
 <strong>📫 How to reach me </strong>
