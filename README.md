@@ -15,10 +15,7 @@
   <img  alt="prakashsellathurai | Website" width="28" height="28" src="https://img.icons8.com/ios/50/000000/domain.png" />
   &nbsp;
   </a>
-  <a href="https://dev.to/prakashsellathurai">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="prakashsellathurai's DEV Profile" height="28" width="28">
-  </a>
-   &nbsp;
+
   <a href="https://www.linkedin.com/in/prakashsellathurai/">
  <img  alt="prakashsellathurai | LinkedIn" width="28" height="28"  src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
    </a>
